@@ -1,6 +1,6 @@
 body {
   font-family: 'Georgia', serif;
-  background-color: #f5f3e5; /* Cor de fundo suave, parecendo papel claro */
+  background-color: #f5f3e5;
   background-size: cover;
   padding: 2rem;
   line-height: 1.6;
@@ -9,7 +9,7 @@ body {
 
 
 .carta {
-  background: rgba(255, 255, 240, 0.95); /* tom de papel antigo */
+  background: rgba(255, 255, 240, 0.95); 
   padding: 2rem;
   max-width: 800px;
   margin: auto;
