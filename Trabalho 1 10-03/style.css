@@ -1,0 +1,51 @@
+body {
+  font-family: 'Georgia', serif;
+  background-color: #f5f3e5; /* Cor de fundo suave, parecendo papel claro */
+  background-size: cover;
+  padding: 2rem;
+  line-height: 1.6;
+  color: #333;
+}
+
+
+.carta {
+  background: rgba(255, 255, 240, 0.95); /* tom de papel antigo */
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 10px;
+  border: 1px solid #d2b48c;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  color: #5b3b1e;
+}
+
+.assinatura {
+  margin-top: 2rem;
+  text-align: right;
+  font-style: italic;
+  color: #5b3b1e;
+}
+
+.voltar {
+  display: block;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.voltar a {
+  text-decoration: none;
+  background-color: #8b5c2c;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.voltar a:hover {
+  background-color: #5e3e1b;
+}
